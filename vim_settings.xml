@@ -3,6 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/person.py" timestamp="1553357904042">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/property_types.py" timestamp="1553358187204">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553357861334">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/book-modelviewcontroller/01-basics-of-mvc/02-document-view.md" timestamp="1553302391852">
         <mark key="[" line="190" column="9" />
         <mark key="]" line="190" column="5" />
@@ -24,6 +42,15 @@
       <jump line="22" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
@@ -45,7 +72,9 @@
         <entry encoding="base64">XDxzZXRUZXh0XD4=</entry>
         <entry>set</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
