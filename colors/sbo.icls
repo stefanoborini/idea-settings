@@ -11,15 +11,16 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="990002" />
     <option name="GUTTER_BACKGROUND" value="0" />
-    <option name="INDENT_GUIDE" value="" />
+    <option name="INDENT_GUIDE" value="39" />
     <option name="LINE_NUMBERS_COLOR" value="b5b600" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="f400f4" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="b5b600" />
+    <option name="RIGHT_MARGIN_COLOR" value="62a1" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTION_BACKGROUND" value="dbdb00" />
     <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="TEARLINE_COLOR" value="3c3f41" />
     <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -40,7 +41,7 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="a0c6" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -208,6 +209,37 @@
     <option name="MARKDOWN_CODE_SPAN">
       <value />
     </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="9300bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="9300bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="9300bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="9300bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HTML_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="c8c8c8" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffef28" />
@@ -247,14 +279,15 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="945863" />
+        <option name="FOREGROUND" value="d8a4a0" />
       </value>
     </option>
     <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fff100" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ccc100" />
       </value>
     </option>
     <option name="TEXT">
@@ -265,7 +298,10 @@
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ccc100" />
+      </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
@@ -290,7 +326,10 @@
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ccc100" />
+      </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value />

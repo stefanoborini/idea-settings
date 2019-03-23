@@ -9,15 +9,42 @@
         <mark key="^" line="190" column="5" />
         <mark key="." line="190" column="5" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
+        <mark key="'" line="22" column="19" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="24" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="30" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="11" column="23" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="13" column="21" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="23" column="40" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="16" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="22" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>set</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>set</last-search>
+      <last-offset />
+      <last-pattern>set</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry encoding="base64">XDxsYWJlbFw+</entry>
+        <entry>foo</entry>
+        <entry encoding="base64">XDxzZXRUZXh0XD4=</entry>
+        <entry>set</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
