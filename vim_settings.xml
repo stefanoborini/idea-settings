@@ -15,21 +15,38 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tox.ini" timestamp="1553364332758">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.flake8" timestamp="1553360857556">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553360967654">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553362125221">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+        <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Pipfile" timestamp="1553360829826">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
+        <mark key="'" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Makefile" timestamp="1553362539603" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Pipfile" timestamp="1553363761092">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/model.py" timestamp="1553360698526">
         <mark key="[" line="3" column="12" />
@@ -43,9 +60,6 @@
         <mark key="^" line="190" column="5" />
         <mark key="." line="190" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
-        <mark key="'" line="22" column="19" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="24" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
@@ -58,41 +72,44 @@
       <jump line="22" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvbmdfZGVzY3JpcHRpb249cmVhZCgiUkVBRE1FLnJzdCIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvbmdfZGVzY3JpcHRpb249cmVhZCgiUkVBRE1FLnJzdCIpLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoJ2FybWFkaWxsbycpLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB5X21vZHVsZXM9W3NwbGl0ZXh0KGJhc2VuYW1lKHBhdGgpKVswXSBmb3IgcGF0aCBpbiBnbG9iKCdhcm1hZGlsbG8vKi5weScpXSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAtKi0gZW5jb2Rpbmc6IHV0Zi04IC0qLQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">InRveCIgPSAiKiIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2VfZGlyPXsnJzogJ2FybWFkaWxsbyd9LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxvbmdfZGVzY3JpcHRpb249cmVhZCgiUkVBRE1FLnJzdCIpLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoJ2FybWFkaWxsbycpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB5X21vZHVsZXM9W3NwbGl0ZXh0KGJhc2VuYW1lKHBhdGgpKVswXSBmb3IgcGF0aCBpbiBnbG9iKCdhcm1hZGlsbG8vKi5weScpXSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -113,6 +130,7 @@
         <entry>set</entry>
       </history-search>
       <history-cmd>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
