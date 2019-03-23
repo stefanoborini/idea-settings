@@ -9,17 +9,33 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/property_types.py" timestamp="1553358187204">
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/property_types.py" timestamp="1553360183520">
         <mark key="[" line="2" column="38" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553357861334">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="13" />
-        <mark key="^" line="49" column="13" />
-        <mark key="." line="49" column="13" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.flake8" timestamp="1553360857556">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553360967654">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Pipfile" timestamp="1553360829826">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/model.py" timestamp="1553360698526">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/book-modelviewcontroller/01-basics-of-mvc/02-document-view.md" timestamp="1553302391852">
         <mark key="[" line="190" column="9" />
@@ -43,10 +59,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxvbmdfZGVzY3JpcHRpb249cmVhZCgiUkVBRE1FLnJzdCIpLAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxvbmdfZGVzY3JpcHRpb249cmVhZCgiUkVBRE1FLnJzdCIpLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoJ2FybWFkaWxsbycpLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB5X21vZHVsZXM9W3NwbGl0ZXh0KGJhc2VuYW1lKHBhdGgpKVswXSBmb3IgcGF0aCBpbiBnbG9iKCdhcm1hZGlsbG8vKi5weScpXSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAtKi0gZW5jb2Rpbmc6IHV0Zi04IC0qLQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
