@@ -21,28 +21,24 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.flake8" timestamp="1553360857556">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553362125221">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="40" />
-        <mark key="^" line="19" column="40" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
-        <mark key="'" line="22" column="19" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Makefile" timestamp="1553362539603" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Pipfile" timestamp="1553363761092">
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.flake8" timestamp="1553360857556">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553365093915">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Pipfile" timestamp="1553364895955">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
@@ -60,6 +56,9 @@
         <mark key="^" line="190" column="5" />
         <mark key="." line="190" column="5" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
+        <mark key="'" line="22" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="24" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
@@ -73,10 +72,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
