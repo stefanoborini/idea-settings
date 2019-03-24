@@ -21,11 +21,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.travis.yml" timestamp="1553372899719">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.travis.yml" timestamp="1553447502790">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553373397051">
         <mark key="[" line="0" column="0" />
