@@ -27,11 +27,11 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553373397051">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553452732773">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.flake8" timestamp="1553360857556">
         <mark key="[" line="1" column="0" />
@@ -41,11 +41,11 @@
       <file name="/a.dummy" timestamp="1553370889912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553365093915">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/setup.py" timestamp="1553452692823">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
         <mark key="'" line="22" column="19" />
@@ -87,7 +87,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">InRveC1waXBlbnYiID0gIioiCg==</text>
+        <text encoding="base64">ZnJvbSBzZXR1cHRvb2xzIGltcG9ydCBmaW5kX3BhY2thZ2VzCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgLSB2aXJ0dWFsZW52IC0tdmVyc2lvbg==</text>
@@ -96,34 +96,34 @@
         <text>set</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">InRveC1waXBlbnYiID0gIioiCg==</text>
+        <text encoding="base64">ZnJvbSBzZXR1cHRvb2xzIGltcG9ydCBmaW5kX3BhY2thZ2VzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">InRveCIgPSAiKiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWZ0ZXJfZmFpbHVyZToKICAtIG1vcmUgLnRveC9sb2cvKiB8IGNhdAogIC0gbW9yZSAudG94LyovbG9nLyogfCBjYXQK</text>
+        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydCBiYXNlbmFtZQpmcm9tIG9zLnBhdGggaW1wb3J0IGRpcm5hbWUKZnJvbSBvcy5wYXRoIGltcG9ydCBqb2luCmZyb20gb3MucGF0aCBpbXBvcnQgc3BsaXRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIHRveCAtLXZlcnNpb24K</text>
+        <text encoding="base64">ZnJvbSBnbG9iIGltcG9ydCBnbG9iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIHRveCAtLXZlcnNpb24K</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIGxzYl9yZWxlYXNlIC1hCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHVuYW1lIC1hCg==</text>
+        <text encoding="base64">InRveC1waXBlbnYiID0gIioiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHBpcCAtLXZlcnNpb24K</text>
+        <text encoding="base64">InRveCIgPSAiKiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGVhc3lfaW5zdGFsbCAtLXZlcnNpb24K</text>
+        <text encoding="base64">YWZ0ZXJfZmFpbHVyZToKICAtIG1vcmUgLnRveC9sb2cvKiB8IGNhdAogIC0gbW9yZSAudG94LyovbG9nLyogfCBjYXQK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -144,8 +144,8 @@
         <entry>set</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
