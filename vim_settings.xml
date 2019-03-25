@@ -50,6 +50,12 @@
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
         <mark key="'" line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/databinding.py" timestamp="1553550001621">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="12" />
@@ -62,11 +68,17 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553472100965">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="21" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="19" column="21" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553549751703">
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="24" />
+        <mark key="." line="60" column="24" />
+        <mark key="^" line="60" column="24" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/application.py" timestamp="1553549562046">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/model.py" timestamp="1553360698526">
         <mark key="[" line="3" column="12" />
@@ -78,11 +90,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" timestamp="1553472075685">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" timestamp="1553549914290">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/book-modelviewcontroller/01-basics-of-mvc/02-document-view.md" timestamp="1553302391852">
         <mark key="[" line="190" column="9" />
@@ -105,46 +118,47 @@
       <jump line="25" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
       <jump line="16" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
       <jump line="22" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91aSA9IFFXaWRnZXQoKQogICAgICAgIGxheW91dCA9IFFWQm94TGF5b3V0KCkKICAgICAgICBzZWxmLl91aS5zZXRMYXlvdXQobGF5b3V0KQoKICAgICAgICBmb3IgY2hpbGQgaW4gc2VsZi5fY2hpbGRyZW46CiAgICAgICAgICAgIHVpID0gY2hpbGQuaW5pdF91aShzZWxmLl91aSkKICAgICAgICAgICAgbGF5b3V0LmFkZFdpZGdldCh1aSkK</text>
+        <text encoding="base64">ZnJvbSBhcm1hZGlsbG8uY29udHJvbHMgaW1wb3J0IExpbmVFZGl0LCBWaWV3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBQeVF0NS5RdFdpZGdldHNpdF9fIGltcG9ydCBRTGFiZWwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0LmFkZFdpZGdldCh1aSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWkgPSBjaGlsZC5pbml0X3VpKHNlbGYuX3VpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY2hpbGQgaW4gc2VsZi5fY2hpbGRyZW46Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBQeVF0NS5RdFdpZGdldHMuX19pbml0X18gaW1wb3J0IFFWQm94TGF5b3V0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbC4gYmluZF90YXJnZXQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2hpbGQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KG5vZGUuY2hpbGRyZW4pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjb250cm9scyBpbXBvcnQgVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
