@@ -50,11 +50,16 @@
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
         <mark key="'" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/databinding.py" timestamp="1553550357818">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/databinding.py" timestamp="1553554459094">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/model.py" timestamp="1553554174055">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
         <mark key="[" line="0" column="5" />
@@ -62,11 +67,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controllers.py" timestamp="1553550879306">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="37" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controllers.py" timestamp="1553554637757">
+        <mark key="[" line="29" column="92" />
+        <mark key="]" line="29" column="90" />
+        <mark key="." line="29" column="90" />
+        <mark key="^" line="29" column="90" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Pipfile" timestamp="1553372915157">
         <mark key="[" line="13" column="0" />
@@ -74,17 +79,17 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553549751703">
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="24" />
-        <mark key="." line="60" column="24" />
-        <mark key="^" line="60" column="24" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553554324121">
+        <mark key="[" line="53" column="46" />
+        <mark key="]" line="54" column="34" />
+        <mark key="." line="54" column="34" />
+        <mark key="^" line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/application.py" timestamp="1553549562046">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="23" column="39" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/application.py" timestamp="1553554443214">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/model.py" timestamp="1553360698526">
         <mark key="[" line="3" column="12" />
@@ -96,12 +101,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" timestamp="1553549914290">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" timestamp="1553554408602">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="38" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/book-modelviewcontroller/01-basics-of-mvc/02-document-view.md" timestamp="1553302391852">
         <mark key="[" line="190" column="9" />
@@ -128,40 +133,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29udHJvbC5fbGluZV9lZGl0LnNldFN0eWxlU2hlZXQoImJhY2tncm91bmQtY29sb3I6IHJnYigyMzYsIDAsIDApOyBib3JkZXI6IDBweCA7Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBhcm1hZGlsbG8uY29udHJvbHMgaW1wb3J0IExpbmVFZGl0LCBWaWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29udHJvbC5fbGluZV9lZGl0LnNldFN0eWxlU2hlZXQoImJhY2tncm91bmQtY29sb3I6IHJnYigyMzYsIDAsIDApOyBib3JkZXI6IDBweCA7Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGlsZCkK</text>
+        <text encoding="base64">ZnJvbSB0cmFpdGxldHMgaW1wb3J0IEhhc1RyYWl0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbC4gYmluZF90YXJnZXQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2hpbGQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGlsZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
