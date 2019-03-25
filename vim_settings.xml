@@ -50,17 +50,23 @@
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" timestamp="1553308957555">
         <mark key="'" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/databinding.py" timestamp="1553550001621">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/databinding.py" timestamp="1553550357818">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controllers.py" timestamp="1553550879306">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/Pipfile" timestamp="1553372915157">
         <mark key="[" line="13" column="0" />
@@ -122,7 +128,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -134,31 +140,31 @@
         <text encoding="base64">ZnJvbSBhcm1hZGlsbG8uY29udHJvbHMgaW1wb3J0IExpbmVFZGl0LCBWaWV3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbC4gYmluZF90YXJnZXQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2hpbGQpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjaGlsZCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbC4gYmluZF90YXJnZXQpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5vZGUuY2hpbGRyZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2hpbGQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
