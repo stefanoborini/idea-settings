@@ -15,60 +15,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/GiveAnswers.js" timestamp="1554151563159">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553452732773">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/public/index.html" timestamp="1553962451149">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package.json" timestamp="1554157706827">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/Dashboard.js" timestamp="1554152799133">
-        <mark key="'" line="19" column="15" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="66" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/UserMenu.js" timestamp="1554317909224">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MainView.js" timestamp="1554152599819">
-        <mark key="'" line="29" column="7" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/CentralView.js" timestamp="1554156009287">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="25" column="36" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/UserList.js" timestamp="1553961534032">
-        <mark key="'" line="0" column="26" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="80" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="11" column="72" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" timestamp="1554638057784">
         <mark key="'" line="9" column="36" />
@@ -101,22 +52,17 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/NavigationBar.js" timestamp="1553903243961">
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="31" column="37" />
-        <mark key="." line="31" column="37" />
-        <mark key="^" line="31" column="37" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/index.js" timestamp="1553987362659">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/pytest.ini" timestamp="1553469739665">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/UserMenuContent.js" timestamp="1554639488966">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/person.py" timestamp="1553357904042">
         <mark key="[" line="16" column="4" />
@@ -130,11 +76,153 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/AskQuestion.js" timestamp="1554151087932">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="39" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/AskQuestion.js" timestamp="1554640438015">
+        <mark key="'" line="31" column="24" />
+        <mark key="[" line="18" column="65" />
+        <mark key="]" line="18" column="65" />
+        <mark key="^" line="33" column="1" />
+        <mark key="." line="18" column="65" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.js" timestamp="1554639923258">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="47" column="5" />
+        <mark key="." line="47" column="5" />
+        <mark key="^" line="47" column="5" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/App.js" timestamp="1553959220420">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/model/Question.js" timestamp="1554641859011">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/model.py" timestamp="1553554174055">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/UserMenu.js" timestamp="1554639688231">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553644431635">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/Login.js" timestamp="1554638906172">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/UserCard.js" timestamp="1554642410470">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.css" timestamp="1554147970345">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/model.py" timestamp="1553360698526">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/UserList.js" timestamp="1554641448457">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/TopBar.js" timestamp="1554639842711">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="41" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionCard.js" timestamp="1554642524476">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/GiveAnswers.js" timestamp="1554642669396">
+        <mark key="[" line="11" column="111" />
+        <mark key="]" line="11" column="116" />
+        <mark key="." line="11" column="116" />
+        <mark key="^" line="11" column="116" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553452732773">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/public/index.html" timestamp="1553962451149">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package.json" timestamp="1554157706827">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/Dashboard.js" timestamp="1554642075469">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="19" column="53" />
+        <mark key="^" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/UserTopBarIcon.js" timestamp="1554639379286">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/CentralView.js" timestamp="1554156009287">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/UserList.js" timestamp="1553961534032">
+        <mark key="'" line="0" column="26" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="80" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="72" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/NavigationBar.js" timestamp="1553903243961">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/pytest.ini" timestamp="1553469739665">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionList.js" timestamp="1554642357056">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/QuestionList.js" timestamp="1553964038606">
         <mark key="[" line="33" column="0" />
@@ -159,23 +247,17 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/SubBar.js" timestamp="1554149782818">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="73" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/SubBar.js" timestamp="1554640546239">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.js" timestamp="1554320010469">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/App.js" timestamp="1553959220420">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/model/User.js" timestamp="1554641625119">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/UserMenuContent.js" timestamp="1554318274352">
         <mark key="[" line="9" column="39" />
@@ -188,33 +270,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/model.py" timestamp="1553554174055">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/User.js" timestamp="1554152809787">
-        <mark key="[" line="9" column="82" />
-        <mark key="]" line="9" column="83" />
-        <mark key="^" line="9" column="83" />
-        <mark key="." line="9" column="83" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/User.js" timestamp="1554639205076">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/Box.js" timestamp="1554147955830">
         <mark key="[" line="11" column="50" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="50" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553644431635">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/Login.js" timestamp="1554638209793">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="34" column="23" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/Login.js" timestamp="1554638148147">
         <mark key="'" line="19" column="16" />
@@ -223,23 +288,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.css" timestamp="1554147970345">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" timestamp="1554320181703">
         <mark key="'" line="27" column="12" />
         <mark key="[" line="31" column="122" />
         <mark key="]" line="31" column="128" />
         <mark key="^" line="31" column="128" />
         <mark key="." line="31" column="128" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/model.py" timestamp="1553360698526">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" timestamp="1553644462586">
         <mark key="'" line="45" column="0" />
@@ -254,11 +308,12 @@
         <mark key="^" line="190" column="5" />
         <mark key="." line="190" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/UserList.js" timestamp="1554152532063">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/LoginMenu.js" timestamp="1554639636901">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -298,55 +353,60 @@
       <jump line="13" column="36" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" />
       <jump line="14" column="72" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" />
       <jump line="9" column="36" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/LoginMenu.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/LoginMenu.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/LoginMenu.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/TopBar.js" />
+      <jump line="29" column="24" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/AskQuestion.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBRdWVzdGlvbigiSG93IGRvIEkgbGVhcm4gQysrIiwgIkdpdmUgbWUgc29tZXRoaW5nIiwgbmV3IFVzZXIoIk1vbmdvIiwgImRpZGkiLCAibmljZSBndXkiKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>exampleDrop</text>
+        <text encoding="base64">XDxHcmF2YXRhclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKCmltcG9ydCB7R29vZ2xlTG9naW59IGZyb20gJ3JlYWN0LWdvb2dsZS1sb2dpbic7Cgpjb25zdCByZXNwb25zZUdvb2dsZSA9IChyZXNwb25zZSkgPT4gewogICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwp9OwoKCmNsYXNzIExvZ2luIGV4dGVuZHMgQ29tcG9uZW50IHsKICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPERyb3Bkb3duSXRlbT4KICAgICAgICAgICAgICAgIDxHb29nbGVMb2dpbgogICAgICAgICAgICAgICAgICAgIGNsaWVudElkPSI5NDYyNTcyMTQzMzgtNXBzMjBkYml2N2liNTVjNDJlMzFxNWliaHZtZWxqaG0uYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iCiAgICAgICAgICAgICAgICAgICAgYnV0dG9uVGV4dD0iTG9naW4iCiAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzPXtyZXNwb25zZUdvb2dsZX0KICAgICAgICAgICAgICAgICAgICBvbkZhaWx1cmU9e3Jlc3BvbnNlR29vZ2xlfQogICAgICAgICAgICAgICAgICAgIGNvb2tpZVBvbGljeT17J3NpbmdsZV9ob3N0X29yaWdpbid9CiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgIDwvRHJvcGRvd25JdGVtPgogICAgICAgICAgICAgICAgPGZvcm0gY2xhc3M9InB4LTQgcHktMyI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImV4YW1wbGVEcm9wZG93bkZvcm1FbWFpbDEiPkVtYWlsIGFkZHJlc3M8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iZW1haWwiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJleGFtcGxlRHJvcGRvd25Gb3JtRW1haWwxIiBwbGFjZWhvbGRlcj0iZW1haWxAZXhhbXBsZS5jb20iIC8+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImV4YW1wbGVEcm9wZG93bkZvcm1QYXNzd29yZDEiPlBhc3N3b3JkPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iZXhhbXBsZURyb3Bkb3duRm9ybVBhc3N3b3JkMSIgcGxhY2Vob2xkZXI9IlBhc3N3b3JkIiAvPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIGlkPSJkcm9wZG93bkNoZWNrIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImRyb3Bkb3duQ2hlY2siPlJlbWVtYmVyIG1lPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHRoaXMucHJvcHMub25Mb2dpbigpfT5TaWduIGluPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Zvcm0+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkcm9wZG93bi1kaXZpZGVyIj48L2Rpdj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJkcm9wZG93bi1pdGVtIiBocmVmPSIjIj5OZXcgYXJvdW5kIGhlcmU/IFNpZ24gdXA8L2E+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgaHJlZj0iIyI+Rm9yZ290IHBhc3N3b3JkPzwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgIH0KfQoKZXhwb3J0IGRlZmF1bHQgTG9naW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBRdWVzdGlvbigiSG93IGRvIEkgbGVhcm4gQysrIiwgIkdpdmUgbWUgc29tZXRoaW5nIiwgbmV3IFVzZXIoIk1vbmdvIiwgImRpZGkiLCAibmljZSBndXkiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxHcmF2YXRhcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiAic3RlZmFuby5ib3JpbmlAZ21haWwuY29tIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgUXVlc3Rpb25DYXJkIGZyb20gJy4vUXVlc3Rpb25DYXJkLmpzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFF1ZXN0aW9uQ2FyZCBmcm9tICcuL1F1ZXN0aW9uQ2FyZC5qcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcmVzcG9uc2VHb29nbGUgPSAocmVzcG9uc2UpID0+IHsKICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKfTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IEdyYXZhdGFyIGZyb20gJ3JlYWN0LWdyYXZhdGFyJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dXNlci5kZXNjcmlwdGlvbn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJveCB0aXRsZT0iWW91ciBzdHVkZW50cyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VXNlckxpc3QgdXNlcnM9e3RoaXMuc3RhdGUuc3R1ZGVudHN9IC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQm94PgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6ICJzdGVmYW5vLmJvcmluaUBnbWFpbC5jb20iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxVc2VyTGlzdCB1c2Vycz17dGhpcy5zdGF0ZS5tZW50b3JzfSAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFF1ZXN0aW9uTGlzdCBxdWVzdGlvbnM9e3RoaXMuc3RhdGUucXVlc3Rpb25zfSAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exampleDrop</last-search>
+      <last-search encoding="base64">XDxHcmF2YXRhclw+</last-search>
       <last-offset />
-      <last-pattern>exampleDrop</last-pattern>
+      <last-pattern encoding="base64">XDxHcmF2YXRhclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -363,6 +423,7 @@
         <entry encoding="base64">XDxOYXZiYXJcPg==</entry>
         <entry>user</entry>
         <entry>exampleDrop</entry>
+        <entry encoding="base64">XDxHcmF2YXRhclw+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
