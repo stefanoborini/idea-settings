@@ -83,11 +83,11 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.js" timestamp="1554646635956">
-        <mark key="[" line="40" column="80" />
-        <mark key="]" line="41" column="76" />
-        <mark key="^" line="41" column="76" />
-        <mark key="." line="41" column="76" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.js" timestamp="1554650311485">
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="29" />
+        <mark key="." line="42" column="27" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/App.js" timestamp="1553959220420">
         <mark key="[" line="7" column="0" />
@@ -95,11 +95,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/model/Question.js" timestamp="1554641859011">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/model/Question.js" timestamp="1554649844888">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/model.py" timestamp="1553554174055">
         <mark key="[" line="4" column="0" />
@@ -153,16 +153,17 @@
         <mark key="." line="35" column="41" />
         <mark key="^" line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionCard.js" timestamp="1554642524476">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionCard.js" timestamp="1554650249133">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/GiveAnswers.js" timestamp="1554642669396">
-        <mark key="[" line="11" column="111" />
-        <mark key="]" line="11" column="116" />
-        <mark key="." line="11" column="116" />
-        <mark key="^" line="11" column="116" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/GiveAnswers.js" timestamp="1554649940800">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553452732773">
         <mark key="[" line="1" column="17" />
@@ -360,8 +361,8 @@
       <jump line="29" column="24" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/AskQuestion.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -370,34 +371,34 @@
         <text encoding="base64">XDxHcmF2YXRhclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzc05hbWU9Im5hdi1pdGVtIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUgZXhhY3QgcGF0aD0iL2dpdmUtYW5zd2VycyIgY29tcG9uZW50PXtHaXZlQW5zd2Vyc30gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBRdWVzdGlvbigiUHl0aG9uIGlzIGhhcmQiLCAiV2hhdGV2ZXIgIiwgbmV3IFVzZXIoIk1vbmdvIiwgImRpZGkiLCAibmljZSBndXkiKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2l2ZV9hbnN3ZXJzX2NsYXNzID0gIm5hdi1saW5rICIgKyAodGhpcy5wcm9wcy5tb2RlID09PSAiZ2l2ZS1hbnN3ZXJzIiA/ICJhY3RpdmUiOiAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9IkhvdyBkbyBJIGxlYXJuIEMrKyIsIHRleHQ9IkdpdmUgbWUgc29tZXRoaW5nIiwgdXNlcj0obmV3IFVzZXIoIk1vbmdvIiwgImRpZGkiLCAibmljZSBndXkiKSkpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXNrX3F1ZXN0aW9uX2NsYXNzID0gIm5hdi1saW5rICIgKyAodGhpcy5wcm9wcy5tb2RlID09PSAiYXNrLXF1ZXN0aW9uIiA/ICJhY3RpdmUiOiAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGluayB0bz0iLyI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGFzaGJvYXJkX2NsYXNzID0gIm5hdi1saW5rICIgKyAodGhpcy5wcm9wcy5tb2RlID09PSAiZGFzaGJvYXJkIiA/ICJhY3RpdmUiIDogIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZ2l2ZV9hbnN3ZXJzX2NsYXNzID0gIm5hdi1saW5rICIgKyAodGhpcy5wcm9wcy5tb2RlID09PSAiZ2l2ZS1hbnN3ZXJzIiA/ICJhY3RpdmUiOiAiIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2TGluayB0bz0iLyIgY2xhc3NOYW1lPSJuYXYtaXRlbSI+RGFzaGJvYXJkPC9OYXZMaW5rPgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXNrX3F1ZXN0aW9uX2NsYXNzID0gIm5hdi1saW5rICIgKyAodGhpcy5wcm9wcy5tb2RlID09PSAiYXNrLXF1ZXN0aW9uIiA/ICJhY3RpdmUiOiAiIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzTmFtZT17YXNrX3F1ZXN0aW9uX2NsYXNzfSAKICAgICAgICAgICAgICAgICAgICAgICBocmVmPSIjIgogICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHt0aGlzLnByb3BzLnRhYkNsaWNrZWQoJ2Fzay1xdWVzdGlvbicpfSB9PgogICAgICAgICAgICAgICAgICAgICAgICBBc2sgYSBxdWVzdGlvbgogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9e2dpdmVfYW5zd2Vyc19jbGFzc30gCiAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iIyIKICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7dGhpcy5wcm9wcy50YWJDbGlja2VkKCdnaXZlLWFuc3dlcnMnKX0gfT4KICAgICAgICAgICAgICAgICAgICAgICAgR2l2ZSBhbnN3ZXJzCiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGFzaGJvYXJkX2NsYXNzID0gIm5hdi1saW5rICIgKyAodGhpcy5wcm9wcy5tb2RlID09PSAiZGFzaGJvYXJkIiA/ICJhY3RpdmUiIDogIiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvTmF2TGluaz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9e2Rhc2hib2FyZF9jbGFzc30gCiAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iIyIgCiAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4ge3RoaXMucHJvcHMudGFiQ2xpY2tlZCgnZGFzaGJvYXJkJyl9IH0+CiAgICAgICAgICAgICAgICAgICAgICAgIERhc2hib2FyZAogICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICA8TmF2TGluayB0bz0iLyIgY2xhc3NOYW1lPSJuYXYtaXRlbSI+RGFzaGJvYXJkPC9OYXZMaW5rPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
