@@ -70,11 +70,12 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" timestamp="1554319559700">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" timestamp="1554638057784">
+        <mark key="'" line="9" column="36" />
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
         <mark key="^" line="3" column="14" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="9" column="36" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
         <mark key="[" line="0" column="5" />
@@ -209,11 +210,18 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/Login.js" timestamp="1554320115917">
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/Login.js" timestamp="1554638209793">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/Login.js" timestamp="1554638148147">
         <mark key="'" line="19" column="16" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.css" timestamp="1554147970345">
         <mark key="[" line="29" column="0" />
@@ -286,16 +294,20 @@
       <jump line="21" column="38" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
       <jump line="26" column="12" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
       <jump line="27" column="12" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
+      <jump line="10" column="69" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" />
+      <jump line="13" column="36" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" />
+      <jump line="14" column="72" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" />
+      <jump line="9" column="36" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/LoginForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>exampleDrop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKCmltcG9ydCB7R29vZ2xlTG9naW59IGZyb20gJ3JlYWN0LWdvb2dsZS1sb2dpbic7Cgpjb25zdCByZXNwb25zZUdvb2dsZSA9IChyZXNwb25zZSkgPT4gewogICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwp9OwoKCmNsYXNzIExvZ2luIGV4dGVuZHMgQ29tcG9uZW50IHsKICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPERyb3Bkb3duSXRlbT4KICAgICAgICAgICAgICAgIDxHb29nbGVMb2dpbgogICAgICAgICAgICAgICAgICAgIGNsaWVudElkPSI5NDYyNTcyMTQzMzgtNXBzMjBkYml2N2liNTVjNDJlMzFxNWliaHZtZWxqaG0uYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iCiAgICAgICAgICAgICAgICAgICAgYnV0dG9uVGV4dD0iTG9naW4iCiAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzPXtyZXNwb25zZUdvb2dsZX0KICAgICAgICAgICAgICAgICAgICBvbkZhaWx1cmU9e3Jlc3BvbnNlR29vZ2xlfQogICAgICAgICAgICAgICAgICAgIGNvb2tpZVBvbGljeT17J3NpbmdsZV9ob3N0X29yaWdpbid9CiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgIDwvRHJvcGRvd25JdGVtPgogICAgICAgICAgICAgICAgPGZvcm0gY2xhc3M9InB4LTQgcHktMyI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImV4YW1wbGVEcm9wZG93bkZvcm1FbWFpbDEiPkVtYWlsIGFkZHJlc3M8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iZW1haWwiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJleGFtcGxlRHJvcGRvd25Gb3JtRW1haWwxIiBwbGFjZWhvbGRlcj0iZW1haWxAZXhhbXBsZS5jb20iIC8+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImV4YW1wbGVEcm9wZG93bkZvcm1QYXNzd29yZDEiPlBhc3N3b3JkPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iZXhhbXBsZURyb3Bkb3duRm9ybVBhc3N3b3JkMSIgcGxhY2Vob2xkZXI9IlBhc3N3b3JkIiAvPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIGlkPSJkcm9wZG93bkNoZWNrIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImRyb3Bkb3duQ2hlY2siPlJlbWVtYmVyIG1lPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHRoaXMucHJvcHMub25Mb2dpbigpfT5TaWduIGluPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Zvcm0+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkcm9wZG93bi1kaXZpZGVyIj48L2Rpdj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJkcm9wZG93bi1pdGVtIiBocmVmPSIjIj5OZXcgYXJvdW5kIGhlcmU/IFNpZ24gdXA8L2E+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgaHJlZj0iIyI+Rm9yZ290IHBhc3N3b3JkPzwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgIH0KfQoKZXhwb3J0IGRlZmF1bHQgTG9naW47Cg==</text>
@@ -332,9 +344,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>exampleDrop</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>exampleDrop</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -350,6 +362,7 @@
         <entry>bootstrap</entry>
         <entry encoding="base64">XDxOYXZiYXJcPg==</entry>
         <entry>user</entry>
+        <entry>exampleDrop</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
