@@ -171,12 +171,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" timestamp="1555688633330">
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" timestamp="1555690659648">
         <mark key="'" line="25" column="8" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="27" column="30" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/TopBar.js" timestamp="1555262604858">
         <mark key="'" line="3" column="7" />
@@ -265,12 +265,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" timestamp="1555688842627">
-        <mark key="'" line="15" column="16" />
-        <mark key="[" line="64" column="105" />
-        <mark key="]" line="64" column="102" />
-        <mark key="." line="64" column="102" />
-        <mark key="^" line="64" column="102" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" timestamp="1555690633051">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="123" column="1" />
+        <mark key="]" line="123" column="1" />
+        <mark key="." line="123" column="1" />
+        <mark key="^" line="123" column="1" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionList.js" timestamp="1555262643297">
         <mark key="[" line="4" column="0" />
@@ -471,46 +471,47 @@
       <jump line="103" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="108" column="29" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="48" column="8" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Update</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>Update</text>
       </register>
       <register name="/" type="4">
         <text>this.props</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHg6ICdQeXRob24nLAogICAgICAgICAgICB5OiA2OC4wCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2hhbmdlPXsoZSkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1aTogeyBmcm9tWWVhcjogZS50YXJnZXQudmFsdWUgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKCk7Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGF0YSA9IHsK</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IGRhdGEgPSB7CiAgICB0aXRsZTogIlBhcGVyIGNvdW50IiwKICAgIGF4aXNMYWJlbHM6IFsiWWVhciIsICJQdWJsaWNhdGlvbiJdLAogICAgdmFsdWVzOiBbCiAgICAgICAgewogICAgICAgICAgICB4OiAnUnVzdCcsCiAgICAgICAgICAgIHk6IDc4LjkKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgeDogJ0tvdGxpbicsCiAgICAgICAgICAgIHk6IDc1LjEKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgeDogJ1B5dGhvbicsCiAgICAgICAgICAgIHk6IDY4LjAKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgeDogJ1B5dGhvbjInLAogICAgICAgICAgICB5OiA2OC4wCiAgICAgICAgfQogICAgXQp9Owo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogWzEsIDIsIDNdIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgY29tcG9uZW50RGlkVXBkYXRlKCkgewogICAgICAgIHRoaXMuZHJhd0NoYXJ0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRyYXdDaGFydCA9ICgpID0+IHsKICAgICAgICBjb25zdCBtYXJnaW4gPSA4MDsKICAgICAgICBjb25zdCB3aWR0aCA9IDEwMDAgLSAyICogbWFyZ2luOwogICAgICAgIGNvbnN0IGhlaWdodCA9IDYwMCAtIDIgKiBtYXJnaW47CgogICAgICAgIGNvbnN0IHN2ZyA9IGQzLnNlbGVjdCgnc3ZnJyk7CiAgICAgICAgY29uc3Qgc3ZnQ29udGFpbmVyID0gZDMuc2VsZWN0KCcjY29udGFpbmVyJyk7CgogICAgICAgIGNvbnN0IGNoYXJ0ID0gc3ZnLmFwcGVuZCgnZycpCiAgICAgICAgICAgIC5hdHRyKCd0cmFuc2Zvcm0nLCBgdHJhbnNsYXRlKCR7bWFyZ2lufSwgJHttYXJnaW59KWApOwoKICAgICAgICBjb25zdCB4U2NhbGUgPSBkMy5zY2FsZUJhbmQoKQogICAgICAgICAgICAucmFuZ2UoWzAsIHdpZHRoXSkKICAgICAgICAgICAgLmRvbWFpbihkYXRhLmRhdGEubWFwKChzKSA9PiBzLngpKQogICAgICAgICAgICAucGFkZGluZygwLjQpOwoKICAgICAgICBjb25zdCB5U2NhbGUgPSBkMy5zY2FsZUxpbmVhcigpCiAgICAgICAgICAgIC5yYW5nZShbaGVpZ2h0LCAwXSkKICAgICAgICAgICAgLmRvbWFpbihbMCwgMTAwXSk7CgogICAgICAgIGNvbnN0IG1ha2VZTGluZXMgPSAoKSA9PiBkMy5heGlzTGVmdCgpLnNjYWxlKHlTY2FsZSk7CgogICAgICAgIGNoYXJ0LmFwcGVuZCgnZycpCiAgICAgICAgICAgIC5hdHRyKCd0cmFuc2Zvcm0nLCBgdHJhbnNsYXRlKDAsICR7aGVpZ2h0fSlgKQogICAgICAgICAgICAuY2FsbChkMy5heGlzQm90dG9tKHhTY2FsZSkpOwoKICAgICAgICBjaGFydC5hcHBlbmQoJ2cnKQogICAgICAgICAgICAuY2FsbChkMy5heGlzTGVmdCh5U2NhbGUpKTsKCiAgICAgICAgY2hhcnQuYXBwZW5kKCdnJykKICAgICAgICAgICAgLmF0dHIoJ2NsYXNzJywgJ2dyaWQnKQogICAgICAgICAgICAuY2FsbChtYWtlWUxpbmVzKCkKICAgICAgICAgICAgICAgIC50aWNrU2l6ZSgtd2lkdGgsIDAsIDApCiAgICAgICAgICAgICAgICAudGlja0Zvcm1hdCgnJykKICAgICAgICAgICAgKTsKCiAgICAgICAgY29uc3QgYmFyR3JvdXBzID0gY2hhcnQuc2VsZWN0QWxsKCkKICAgICAgICAgICAgLmRhdGEoZGF0YS5kYXRhKQogICAgICAgICAgICAuZW50ZXIoKQogICAgICAgICAgICAuYXBwZW5kKCdnJyk7CgogICAgICAgIGJhckdyb3VwcwogICAgICAgICAgICAuYXBwZW5kKCdyZWN0JykKICAgICAgICAgICAgLmF0dHIoJ2NsYXNzJywgJ2JhcicpCiAgICAgICAgICAgIC5hdHRyKCd4JywgKGcpID0+IHhTY2FsZShnLngpKQogICAgICAgICAgICAuYXR0cigneScsIChnKSA9PiB5U2NhbGUoZy55KSkKICAgICAgICAgICAgLmF0dHIoJ2hlaWdodCcsIChnKSA9PiBoZWlnaHQgLSB5U2NhbGUoZy55KSkKICAgICAgICAgICAgLmF0dHIoJ3dpZHRoJywgeFNjYWxlLmJhbmR3aWR0aCgpKTsKCiAgICAgICAgYmFyR3JvdXBzCiAgICAgICAgICAgIC5hcHBlbmQoJ3RleHQnKQogICAgICAgICAgICAuYXR0cignY2xhc3MnLCAndmFsdWUnKQogICAgICAgICAgICAuYXR0cigneCcsIChhKSA9PiB4U2NhbGUoYS54KSArIHhTY2FsZS5iYW5kd2lkdGgoKSAvIDIpCiAgICAgICAgICAgIC5hdHRyKCd5JywgKGEpID0+IHlTY2FsZShhLnkpICsgMzApCiAgICAgICAgICAgIC5hdHRyKCd0ZXh0LWFuY2hvcicsICdtaWRkbGUnKQogICAgICAgICAgICAudGV4dCgoYSkgPT4gYCR7YS55fWApOwoKICAgICAgICBzdmcKICAgICAgICAgICAgLmFwcGVuZCgndGV4dCcpCiAgICAgICAgICAgIC5hdHRyKCdjbGFzcycsICdsYWJlbCcpCiAgICAgICAgICAgIC5hdHRyKCd4JywgLShoZWlnaHQgLyAyKSAtIG1hcmdpbikKICAgICAgICAgICAgLmF0dHIoJ3knLCBtYXJnaW4gLyAyLjQpCiAgICAgICAgICAgIC5hdHRyKCd0cmFuc2Zvcm0nLCAncm90YXRlKC05MCknKQogICAgICAgICAgICAuYXR0cigndGV4dC1hbmNob3InLCAnbWlkZGxlJykKICAgICAgICAgICAgLnRleHQoZGF0YS5heGlzTGFiZWxzWzFdKTsKCiAgICAgICAgc3ZnLmFwcGVuZCgndGV4dCcpCiAgICAgICAgICAgIC5hdHRyKCdjbGFzcycsICdsYWJlbCcpCiAgICAgICAgICAgIC5hdHRyKCd4Jywgd2lkdGggLyAyICsgbWFyZ2luKQogICAgICAgICAgICAuYXR0cigneScsIGhlaWdodCArIG1hcmdpbiAqIDEuNykKICAgICAgICAgICAgLmF0dHIoJ3RleHQtYW5jaG9yJywgJ21pZGRsZScpCiAgICAgICAgICAgIC50ZXh0KGRhdGEuYXhpc0xhYmVsc1swXSk7CgogICAgICAgIHN2Zy5hcHBlbmQoJ3RleHQnKQogICAgICAgICAgICAuYXR0cignY2xhc3MnLCAndGl0bGUnKQogICAgICAgICAgICAuYXR0cigneCcsIHdpZHRoIC8gMiArIG1hcmdpbikKICAgICAgICAgICAgLmF0dHIoJ3knLCA0MCkKICAgICAgICAgICAgLmF0dHIoJ3RleHQtYW5jaG9yJywgJ21pZGRsZScpCiAgICAgICAgICAgIC50ZXh0KGRhdGEudGl0bGUpCiAgICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
