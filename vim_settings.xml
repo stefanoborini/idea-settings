@@ -15,6 +15,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/service/esearch.js" timestamp="1555683642905">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/UserMenu.js" timestamp="1554317909224">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="20" />
@@ -70,10 +76,11 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.css" timestamp="1555679057457">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.css" timestamp="1555688265588">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="14" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/person.py" timestamp="1553357904042">
         <mark key="[" line="16" column="4" />
@@ -93,6 +100,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="3" column="32" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/service/ESearchAPI.js" timestamp="1555684238706">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.js" timestamp="1555273102444">
         <mark key="'" line="30" column="27" />
@@ -158,12 +171,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" timestamp="1555682220891">
-        <mark key="'" line="179" column="0" />
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" timestamp="1555688633330">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/TopBar.js" timestamp="1555262604858">
         <mark key="'" line="3" column="7" />
@@ -172,11 +185,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="34" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionCard.js" timestamp="1555268957606">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="15" column="60" />
-        <mark key="." line="15" column="60" />
-        <mark key="^" line="15" column="60" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/service/ESearch.js" timestamp="1555683843576">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/GiveAnswers.js" timestamp="1555272342786">
         <mark key="[" line="18" column="0" />
@@ -242,22 +255,22 @@
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.css" timestamp="1555677262343">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.css" timestamp="1555684327609">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/pytest.ini" timestamp="1553469739665">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" timestamp="1555682263148">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="73" column="21" />
-        <mark key="]" line="73" column="65" />
-        <mark key="." line="73" column="65" />
-        <mark key="^" line="73" column="65" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" timestamp="1555688842627">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="64" column="105" />
+        <mark key="]" line="64" column="102" />
+        <mark key="." line="64" column="102" />
+        <mark key="^" line="64" column="102" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionList.js" timestamp="1555262643297">
         <mark key="[" line="4" column="0" />
@@ -424,69 +437,89 @@
       <jump line="3" column="7" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/TopBar.js" />
       <jump line="29" column="24" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/AskQuestion.js" />
       <jump line="30" column="27" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.js" />
-      <jump line="72" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
-      <jump line="12" column="1" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="138" column="3" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="35" column="10" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
-      <jump line="66" column="22" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="14" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="17" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="21" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="64" column="22" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
-      <jump line="48" column="31" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="3" column="1" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="167" column="3" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="173" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="26" column="21" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="72" column="136" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="16" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="35" column="21" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="69" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="71" column="61" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="15" column="16" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="151" column="33" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="85" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="99" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="140" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="144" column="37" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="228" column="13" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="66" column="16" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="160" column="46" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="90" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="44" column="23" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="103" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="108" column="29" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="48" column="8" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbm5lckhUTUw9IiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>scale</text>
+        <text>this.props</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdmcgPSBkMy5zZWxlY3QoIiMiICsgdGhpcy5wcm9wcy5pZCkK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHg6ICdQeXRob24nLAogICAgICAgICAgICB5OiA2OC4wCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbm5lckhUTUw9IiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkMy5zZWxlY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkMy5zZWxlY3QoIiNiYXJjaGFydCIpKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGF0YSA9IHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZHJhd0NoYXJ0KCk7Cg==</text>
+        <text encoding="base64">CmNvbnN0IGRhdGEgPSB7CiAgICB0aXRsZTogIlBhcGVyIGNvdW50IiwKICAgIGF4aXNMYWJlbHM6IFsiWWVhciIsICJQdWJsaWNhdGlvbiJdLAogICAgdmFsdWVzOiBbCiAgICAgICAgewogICAgICAgICAgICB4OiAnUnVzdCcsCiAgICAgICAgICAgIHk6IDc4LjkKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgeDogJ0tvdGxpbicsCiAgICAgICAgICAgIHk6IDc1LjEKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgeDogJ1B5dGhvbicsCiAgICAgICAgICAgIHk6IDY4LjAKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgeDogJ1B5dGhvbjInLAogICAgICAgICAgICB5OiA2OC4wCiAgICAgICAgfQogICAgXQp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRyYXdDaGFydCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRyYXdDaGFydCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiWFhYIik7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgY29tcG9uZW50RGlkVXBkYXRlKCkgewogICAgICAgIHRoaXMuZHJhd0NoYXJ0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZvcmNlVXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRyYXdDaGFydCA9ICgpID0+IHsKICAgICAgICBjb25zdCBtYXJnaW4gPSA4MDsKICAgICAgICBjb25zdCB3aWR0aCA9IDEwMDAgLSAyICogbWFyZ2luOwogICAgICAgIGNvbnN0IGhlaWdodCA9IDYwMCAtIDIgKiBtYXJnaW47CgogICAgICAgIGNvbnN0IHN2ZyA9IGQzLnNlbGVjdCgnc3ZnJyk7CiAgICAgICAgY29uc3Qgc3ZnQ29udGFpbmVyID0gZDMuc2VsZWN0KCcjY29udGFpbmVyJyk7CgogICAgICAgIGNvbnN0IGNoYXJ0ID0gc3ZnLmFwcGVuZCgnZycpCiAgICAgICAgICAgIC5hdHRyKCd0cmFuc2Zvcm0nLCBgdHJhbnNsYXRlKCR7bWFyZ2lufSwgJHttYXJnaW59KWApOwoKICAgICAgICBjb25zdCB4U2NhbGUgPSBkMy5zY2FsZUJhbmQoKQogICAgICAgICAgICAucmFuZ2UoWzAsIHdpZHRoXSkKICAgICAgICAgICAgLmRvbWFpbihkYXRhLmRhdGEubWFwKChzKSA9PiBzLngpKQogICAgICAgICAgICAucGFkZGluZygwLjQpOwoKICAgICAgICBjb25zdCB5U2NhbGUgPSBkMy5zY2FsZUxpbmVhcigpCiAgICAgICAgICAgIC5yYW5nZShbaGVpZ2h0LCAwXSkKICAgICAgICAgICAgLmRvbWFpbihbMCwgMTAwXSk7CgogICAgICAgIGNvbnN0IG1ha2VZTGluZXMgPSAoKSA9PiBkMy5heGlzTGVmdCgpLnNjYWxlKHlTY2FsZSk7CgogICAgICAgIGNoYXJ0LmFwcGVuZCgnZycpCiAgICAgICAgICAgIC5hdHRyKCd0cmFuc2Zvcm0nLCBgdHJhbnNsYXRlKDAsICR7aGVpZ2h0fSlgKQogICAgICAgICAgICAuY2FsbChkMy5heGlzQm90dG9tKHhTY2FsZSkpOwoKICAgICAgICBjaGFydC5hcHBlbmQoJ2cnKQogICAgICAgICAgICAuY2FsbChkMy5heGlzTGVmdCh5U2NhbGUpKTsKCiAgICAgICAgY2hhcnQuYXBwZW5kKCdnJykKICAgICAgICAgICAgLmF0dHIoJ2NsYXNzJywgJ2dyaWQnKQogICAgICAgICAgICAuY2FsbChtYWtlWUxpbmVzKCkKICAgICAgICAgICAgICAgIC50aWNrU2l6ZSgtd2lkdGgsIDAsIDApCiAgICAgICAgICAgICAgICAudGlja0Zvcm1hdCgnJykKICAgICAgICAgICAgKTsKCiAgICAgICAgY29uc3QgYmFyR3JvdXBzID0gY2hhcnQuc2VsZWN0QWxsKCkKICAgICAgICAgICAgLmRhdGEoZGF0YS5kYXRhKQogICAgICAgICAgICAuZW50ZXIoKQogICAgICAgICAgICAuYXBwZW5kKCdnJyk7CgogICAgICAgIGJhckdyb3VwcwogICAgICAgICAgICAuYXBwZW5kKCdyZWN0JykKICAgICAgICAgICAgLmF0dHIoJ2NsYXNzJywgJ2JhcicpCiAgICAgICAgICAgIC5hdHRyKCd4JywgKGcpID0+IHhTY2FsZShnLngpKQogICAgICAgICAgICAuYXR0cigneScsIChnKSA9PiB5U2NhbGUoZy55KSkKICAgICAgICAgICAgLmF0dHIoJ2hlaWdodCcsIChnKSA9PiBoZWlnaHQgLSB5U2NhbGUoZy55KSkKICAgICAgICAgICAgLmF0dHIoJ3dpZHRoJywgeFNjYWxlLmJhbmR3aWR0aCgpKTsKCiAgICAgICAgYmFyR3JvdXBzCiAgICAgICAgICAgIC5hcHBlbmQoJ3RleHQnKQogICAgICAgICAgICAuYXR0cignY2xhc3MnLCAndmFsdWUnKQogICAgICAgICAgICAuYXR0cigneCcsIChhKSA9PiB4U2NhbGUoYS54KSArIHhTY2FsZS5iYW5kd2lkdGgoKSAvIDIpCiAgICAgICAgICAgIC5hdHRyKCd5JywgKGEpID0+IHlTY2FsZShhLnkpICsgMzApCiAgICAgICAgICAgIC5hdHRyKCd0ZXh0LWFuY2hvcicsICdtaWRkbGUnKQogICAgICAgICAgICAudGV4dCgoYSkgPT4gYCR7YS55fWApOwoKICAgICAgICBzdmcKICAgICAgICAgICAgLmFwcGVuZCgndGV4dCcpCiAgICAgICAgICAgIC5hdHRyKCdjbGFzcycsICdsYWJlbCcpCiAgICAgICAgICAgIC5hdHRyKCd4JywgLShoZWlnaHQgLyAyKSAtIG1hcmdpbikKICAgICAgICAgICAgLmF0dHIoJ3knLCBtYXJnaW4gLyAyLjQpCiAgICAgICAgICAgIC5hdHRyKCd0cmFuc2Zvcm0nLCAncm90YXRlKC05MCknKQogICAgICAgICAgICAuYXR0cigndGV4dC1hbmNob3InLCAnbWlkZGxlJykKICAgICAgICAgICAgLnRleHQoZGF0YS5heGlzTGFiZWxzWzFdKTsKCiAgICAgICAgc3ZnLmFwcGVuZCgndGV4dCcpCiAgICAgICAgICAgIC5hdHRyKCdjbGFzcycsICdsYWJlbCcpCiAgICAgICAgICAgIC5hdHRyKCd4Jywgd2lkdGggLyAyICsgbWFyZ2luKQogICAgICAgICAgICAuYXR0cigneScsIGhlaWdodCArIG1hcmdpbiAqIDEuNykKICAgICAgICAgICAgLmF0dHIoJ3RleHQtYW5jaG9yJywgJ21pZGRsZScpCiAgICAgICAgICAgIC50ZXh0KGRhdGEuYXhpc0xhYmVsc1swXSk7CgogICAgICAgIHN2Zy5hcHBlbmQoJ3RleHQnKQogICAgICAgICAgICAuYXR0cignY2xhc3MnLCAndGl0bGUnKQogICAgICAgICAgICAuYXR0cigneCcsIHdpZHRoIC8gMiArIG1hcmdpbikKICAgICAgICAgICAgLmF0dHIoJ3knLCA0MCkKICAgICAgICAgICAgLmF0dHIoJ3RleHQtYW5jaG9yJywgJ21pZGRsZScpCiAgICAgICAgICAgIC50ZXh0KGRhdGEudGl0bGUpCiAgICB9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scale</last-search>
+      <last-search>this.props</last-search>
       <last-offset />
-      <last-pattern>scale</last-pattern>
+      <last-pattern>this.props</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -506,6 +539,13 @@
         <entry encoding="base64">XDxHcmF2YXRhclw+</entry>
         <entry>Link</entry>
         <entry>scale</entry>
+        <entry>random</entry>
+        <entry>line</entry>
+        <entry>samople</entry>
+        <entry>sample</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>data</entry>
+        <entry>this.props</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
