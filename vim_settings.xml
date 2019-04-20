@@ -27,6 +27,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/package.json" timestamp="1555761533545">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="12" />
@@ -69,9 +74,9 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.css" timestamp="1555753901308">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.css" timestamp="1555758328585">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="1" />
         <mark key="^" line="22" column="14" />
         <mark key="." line="0" column="0" />
       </file>
@@ -94,11 +99,11 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/service/ESearchAPI.js" timestamp="1555697589104">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/service/ESearchAPI.js" timestamp="1555761505565">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/App.js" timestamp="1553959220420">
         <mark key="[" line="7" column="0" />
@@ -163,12 +168,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" timestamp="1555754450425">
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" timestamp="1555758152612">
         <mark key="'" line="120" column="29" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="34" column="54" />
+        <mark key="." line="34" column="54" />
+        <mark key="^" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionCard.js" timestamp="1555268957606">
         <mark key="[" line="16" column="62" />
@@ -240,22 +245,24 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.css" timestamp="1555684327609">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.css" timestamp="1555758517806">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/pytest.ini" timestamp="1553469739665">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" timestamp="1555698026020">
-        <mark key="'" line="98" column="8" />
-        <mark key="[" line="98" column="73" />
-        <mark key="]" line="98" column="70" />
-        <mark key="^" line="98" column="70" />
-        <mark key="." line="98" column="70" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" timestamp="1555761031701">
+        <mark key="b" line="171" column="56" />
+        <mark key="'" line="201" column="4" />
+        <mark key="[" line="215" column="72" />
+        <mark key="]" line="215" column="58" />
+        <mark key="." line="215" column="58" />
+        <mark key="^" line="215" column="58" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/QuestionList.js" timestamp="1555262643297">
         <mark key="[" line="4" column="0" />
@@ -338,17 +345,17 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/Box.js" timestamp="1555753804893">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/Box.js" timestamp="1555756909678">
+        <mark key="[" line="4" column="71" />
+        <mark key="]" line="4" column="71" />
+        <mark key="." line="4" column="71" />
+        <mark key="^" line="4" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/README.md" timestamp="1555753744473">
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="5" column="52" />
-        <mark key="." line="5" column="52" />
-        <mark key="^" line="5" column="52" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/README.md" timestamp="1555761585859">
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="66" column="3" />
+        <mark key="." line="66" column="3" />
+        <mark key="^" line="66" column="3" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/book-modelviewcontroller/01-basics-of-mvc/02-document-view.md" timestamp="1553302391852">
         <mark key="[" line="190" column="9" />
@@ -453,57 +460,63 @@
       <jump line="9" column="7" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="108" column="28" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
       <jump line="112" column="29" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" />
+      <jump line="105" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="43" column="12" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="121" column="16" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="108" column="32" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="130" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="167" column="56" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="140" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
+      <jump line="201" column="4" filename="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL0JhckNoYXJ0LmNzcyc7Cg==</text>
+        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS43LjIiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text encoding="base64">XDxfcGVyZm9ybVNlYXJjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgeyB4OiA8eHZhbHVlMT4sIHk6IDx5dmFsdWUxPn0sCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9ybV9kYXRhLnVpRnJvbVllYXIgPj0gZm9ybV9kYXRhLnVpVG9ZZWFyKSB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBkYXRhOiBudWxsLAogICAgICAgICAgICAgICAgZXJyb3I6ICJGcm9tIHllYXIgbXVzdCBiZSBsb3dlciB0aGFuIHRvIHllYXIiCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL0JhckNoYXJ0LmNzcyc7Cg==</text>
+        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS43LjIiLAo=</text>
       </register>
-      <register name="2" type="8">
-        <text>valu
-valu
-valu</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdmdDb250YWluZXIgPSBkMy5zZWxlY3QoJyNjb250YWluZXInKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3JtX2RhdGEudWlGcm9tWWVhciA9ICtmb3JtX2RhdGEudWlGcm9tWWVhcjsKICAgICAgICBmb3JtX2RhdGEudWlUb1llYXIgPSArZm9ybV9kYXRhLnVpVG9ZZWFyOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJywgc2Fucy1zZXJpZjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ym9keSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBPdGhlcndpc2UsIHRoZSBjdXJyZW50IHZhbGlkYXRpb24gZXJyb3Igd2lsbCBiZSByZXR1cm5lZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBBbiBlbXB0eSBzdHJpbmcgbWVhbnMgbm8gZXJyb3IuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhpcyBhcHBsaWNhdGlvbiBpcyBmb3IgdGhlIEhlYWQgb2YgU29mdHdhcmUgcG9zaXRpb24gYXQgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhbmQgdGhlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search encoding="base64">XDxfcGVyZm9ybVNlYXJjaFw+</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern encoding="base64">XDxfcGVyZm9ybVNlYXJjaFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -511,7 +524,6 @@ valu</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRUZXh0XD4=</entry>
         <entry>set</entry>
         <entry>bootstrap</entry>
         <entry encoding="base64">XDxOYXZiYXJcPg==</entry>
@@ -531,12 +543,13 @@ valu</text>
         <entry encoding="base64">XDxzdmdDb250YWluZXJcPg==</entry>
         <entry>props</entry>
         <entry>title</entry>
+        <entry encoding="base64">XDxfcGVyZm9ybVNlYXJjaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
-        <entry>Lw</entry>
         <entry>&quot;w</entry>
         <entry>wq</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
