@@ -92,13 +92,6 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/AskQuestion.js" timestamp="1555279459448">
-        <mark key="'" line="49" column="24" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/service/ESearchAPI.js" timestamp="1555761505565">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -187,12 +180,6 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="25" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/GiveAnswers.js" timestamp="1555272342786">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="19" column="57" />
-        <mark key="." line="19" column="57" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553452732773">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="2" column="3" />
@@ -275,7 +262,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/LoginForm.js" timestamp="1555676733049" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/docs/design.md" timestamp="1555753537314">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -317,12 +303,6 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/MentorIcons.js" timestamp="1555279564757">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="56" />
-        <mark key="." line="8" column="56" />
-        <mark key="^" line="8" column="56" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/databinding.py" timestamp="1553644284314">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -362,12 +342,6 @@
         <mark key="]" line="190" column="5" />
         <mark key="^" line="190" column="5" />
         <mark key="." line="190" column="5" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/webapi.js" timestamp="1555271776662">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="89" column="35" />
       </file>
     </filemarks>
     <jumps>
