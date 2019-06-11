@@ -215,11 +215,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/bookgenerator/bookgenerator/cli.py" timestamp="1560213041937">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/bookgenerator/bookgenerator/cli.py" timestamp="1560213562566">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="15" />
+        <mark key="^" line="47" column="15" />
+        <mark key="." line="47" column="15" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/webapi.js" timestamp="1555188504204">
         <mark key="[" line="18" column="14" />
@@ -457,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -469,31 +469,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoZm9ybV9kYXRhLnVpRnJvbVllYXIgPj0gZm9ybV9kYXRhLnVpVG9ZZWFyKSB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBkYXRhOiBudWxsLAogICAgICAgICAgICAgICAgZXJyb3I6ICJGcm9tIHllYXIgbXVzdCBiZSBsb3dlciB0aGFuIHRvIHllYXIiCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCIiIiIiIikK</text>
+        <text encoding="base64">ICAgIHRpdGxlID0gIk15IEJvb2siCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGF0b21pY3dyaXRlcwo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IHBhdGhsaWIuUGF0aCgiY29uZmlnLnRvbWwiKQogICAgaWYgY29uZmlnLmV4aXN0cygpOgogICAgICAgIHJhaXNlIGNsaWNrLkNsaWNrRXhjZXB0aW9uKCJjb25maWcudG9tbCBhbHJlYWR5IGV4aXN0LiBFeGl0aW5nLiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS43LjIiLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5leGlzdHMoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
