@@ -127,6 +127,12 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/bookgenerator/pyproject.toml" timestamp="1560212842068">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553644431635">
         <mark key="[" line="27" column="45" />
         <mark key="]" line="28" column="7" />
@@ -208,6 +214,12 @@
         <mark key="]" line="25" column="39" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/bookgenerator/bookgenerator/cli.py" timestamp="1560213041937">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/webapi.js" timestamp="1555188504204">
         <mark key="[" line="18" column="14" />
@@ -445,10 +457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS43LjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcGVyZm9ybVNlYXJjaFw+</text>
@@ -457,31 +469,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoZm9ybV9kYXRhLnVpRnJvbVllYXIgPj0gZm9ybV9kYXRhLnVpVG9ZZWFyKSB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBkYXRhOiBudWxsLAogICAgICAgICAgICAgICAgZXJyb3I6ICJGcm9tIHllYXIgbXVzdCBiZSBsb3dlciB0aGFuIHRvIHllYXIiCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS43LjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3JtX2RhdGEudWlGcm9tWWVhciA9ICtmb3JtX2RhdGEudWlGcm9tWWVhcjsKICAgICAgICBmb3JtX2RhdGEudWlUb1llYXIgPSArZm9ybV9kYXRhLnVpVG9ZZWFyOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCIiIiIiIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGF0b21pY3dyaXRlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPdGhlcndpc2UsIHRoZSBjdXJyZW50IHZhbGlkYXRpb24gZXJyb3Igd2lsbCBiZSByZXR1cm5lZAo=</text>
+        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS43LjIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBbiBlbXB0eSBzdHJpbmcgbWVhbnMgbm8gZXJyb3IuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhbmQgdGhlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
