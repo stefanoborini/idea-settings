@@ -61,6 +61,12 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VScreenArea.py" timestamp="1574723108549">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="40" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/model.py" timestamp="1553554174055">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -161,11 +167,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/AbstractRectangularArea.py" timestamp="1574718681689">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/AbstractRectangularArea.py" timestamp="1574723354036">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="65" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/QuestionList.js" timestamp="1553964038606">
         <mark key="[" line="33" column="0" />
@@ -334,6 +340,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/components/generic/BarChart.js" timestamp="1555758152612">
+        <mark key="'" line="120" column="29" />
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="34" column="54" />
+        <mark key="." line="34" column="54" />
+        <mark key="^" line="26" column="13" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/tests/test_dummy.py" timestamp="1553452732773">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="2" column="3" />
@@ -364,11 +377,12 @@
         <mark key="^" line="47" column="15" />
         <mark key="." line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" timestamp="1574719530841">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" timestamp="1574723262501">
+        <mark key="'" line="46" column="21" />
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/index.js" timestamp="1555677657279">
         <mark key="[" line="3" column="0" />
@@ -419,34 +433,26 @@
         <mark key="." line="4" column="71" />
         <mark key="^" line="4" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VCursesScreen.py" timestamp="1574719702185" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VCursesScreen.py" timestamp="1574723177941">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="73" column="34" />
+        <mark key="^" line="73" column="22" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/README.md" timestamp="1555761585859">
         <mark key="[" line="65" column="14" />
         <mark key="]" line="66" column="3" />
         <mark key="." line="66" column="3" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/AbstractScreen.py" timestamp="1574719420157">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/AbstractScreen.py" timestamp="1574721670611">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" />
-      <jump line="16" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package-lock.json" />
-      <jump line="12983" column="70" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package-lock.json" />
-      <jump line="12987" column="16" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package-lock.json" />
-      <jump line="872" column="12" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package-lock.json" />
-      <jump line="874" column="53" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package-lock.json" />
-      <jump line="12981" column="11" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package-lock.json" />
-      <jump line="27" column="7" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MainView.js" />
-      <jump line="0" column="26" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/UserList.js" />
-      <jump line="14" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/SubBar.js" />
-      <jump line="22" column="25" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
-      <jump line="19" column="15" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/Dashboard.js" />
       <jump line="1" column="9" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/MentorApp.js" />
       <jump line="24" column="16" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/Login.js" />
       <jump line="38" column="34" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
@@ -534,55 +540,68 @@
       <jump line="15" column="12" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/VRect.py" />
       <jump line="298" column="10" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VScreen.py" />
       <jump line="6" column="27" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VWidget.py" />
+      <jump line="97" column="7" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="244" column="17" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VCursesScreen.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="96" column="18" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="12" column="23" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="14" column="21" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="18" column="29" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="21" column="33" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="30" column="29" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="33" column="33" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="43" column="21" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" />
+      <jump line="81" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VCursesScreen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuLlZDdXJzZXNTY3JlZW4gaW1wb3J0IFZTY3JlZW4gICMgbm9xYQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWN0KCkudG9wX2xlZnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWU2NyZWVuQXJlYVw+</text>
+        <text>size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QsIGFic3RyYWN0cHJvcGVydHkKCgpjbGFzcyBBYnN0cmFjdFNjcmVlbihBQkMpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWN0KClbSW5kZXguUkVDVF9XSURUSF0sIHNlbGYucmVjdCgpW0luZGV4LlJFQ1RfSEVJR0hUXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuLlZDdXJzZXNTY3JlZW4gaW1wb3J0IFZTY3JlZW4gICMgbm9xYQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWN0KCkudG9wX2xlZnQoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QK</text>
+        <text encoding="base64">ICAgIGRlZiByZWN0KHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgdG9wX2xlZnQoc2VsZik6CiAgICAgICAgcmV0dXJuIChzZWxmLl9yZWN0W0luZGV4LlJFQ1RfWF0sIHNlbGYuX3JlY3RbSW5kZXguUkVDVF9ZXSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB3aWR0aChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5fcmVjdFtJbmRleC5SRUNUX1dJRFRIXQoKICAgIGRlZiBoZWlnaHQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3JlY3RbSW5kZXguUkVDVF9IRUlHSFRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgY3Vyc29yX3BvcyhzZWxmKToKICAgICAgICAiIiJHZXRzIHRoZSBjdXJyZW50IHBvc2l0aW9uIG9mIHRoZSBjdXJzb3IiIiIKCiAgICBAY3Vyc29yX3Bvcy5zZXR0ZXIKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGN1cnNvcl9wb3Moc2VsZiwgcG9zKToKICAgICAgICAiIiJTZXRzIHRoZSBwb3NpdGlvbiBvZiB0aGUgY3Vyc29yIiIiCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJSZXR1cm5zIHRoZSBzaXplIG9mIHRoZSBhcmVhIGFzIHdpZHRoIHggaGVpZ2h0IiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIHNpemUoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWU2NyZWVuQXJlYVw+</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWU2NyZWVuQXJlYVw+</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -590,8 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHcmF2YXRhclw+</entry>
-        <entry>Link</entry>
         <entry>scale</entry>
         <entry>random</entry>
         <entry>line</entry>
@@ -610,13 +627,15 @@
         <entry encoding="base64">XDxwcmludF9iaW5fcmV2ZXJzZThcPg==</entry>
         <entry encoding="base64">XDxUV0RSXD4=</entry>
         <entry encoding="base64">XDxWU2NyZWVuQXJlYVw+</entry>
+        <entry>top_left</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
-        <entry>&quot;w</entry>
         <entry>wq</entry>
         <entry>Lw</entry>
         <entry>q</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
