@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1574718697036">
+      <file name="/a.dummy" timestamp="1574719588272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
@@ -30,6 +30,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/quantum/debounce/sym_g.c" timestamp="1572555139998" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/UserMenuContent.js" timestamp="1554639488966">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="16" column="14" />
@@ -59,6 +60,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/keyboards/ergo42/rev1/config.h" timestamp="1572393585818" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/VCoreApplication.py" timestamp="1574633990411">
         <mark key="[" line="20" column="24" />
         <mark key="]" line="20" column="24" />
@@ -117,6 +119,7 @@
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/quantum/matrix.c" timestamp="1572554969253" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/webapi.js" timestamp="1555188504204">
         <mark key="[" line="18" column="14" />
         <mark key="]" line="19" column="7" />
@@ -218,6 +221,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/BaseRectangularArea.py" timestamp="1574719299466">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/UserMenu.js" timestamp="1554317909224">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="20" />
@@ -253,10 +262,12 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VScreen.py" timestamp="1574718074012">
-        <mark key="'" line="298" column="10" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="266" column="74" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VScreen.py" timestamp="1574719452876">
+        <mark key="'" line="299" column="10" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/person.py" timestamp="1553357904042">
         <mark key="[" line="16" column="4" />
@@ -282,9 +293,7 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VWidget.py" timestamp="1574714893410">
-        <mark key="'" line="492" column="8" />
-      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VWidget.py" timestamp="1574719603407" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553644431635">
         <mark key="[" line="27" column="45" />
         <mark key="]" line="28" column="7" />
@@ -338,6 +347,12 @@
         <mark key="^" line="47" column="15" />
         <mark key="." line="47" column="15" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/test/VTextScreen.py" timestamp="1574719530841">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/index.js" timestamp="1555677657279">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="42" />
@@ -359,15 +374,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/drivers/avr/i2c_master.c" timestamp="1572555578339">
-        <mark key="'" line="90" column="4" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/docs/design.md" timestamp="1555753537314">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/keyboards/ergo42/readme.md" timestamp="1572393671322" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/User.js" timestamp="1554639205076">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="24" column="0" />
@@ -389,21 +402,21 @@
         <mark key="." line="4" column="71" />
         <mark key="^" line="4" column="71" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VCursesScreen.py" timestamp="1574719702185" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/README.md" timestamp="1555761585859">
         <mark key="[" line="65" column="14" />
         <mark key="]" line="66" column="3" />
         <mark key="." line="66" column="3" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/AbstractScreen.py" timestamp="1574718898275">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/AbstractScreen.py" timestamp="1574719420157">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
       <jump line="22" column="19" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/application_view.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/armadillo/examples/foo.py" />
       <jump line="16" column="20" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/package-lock.json" />
@@ -503,16 +516,17 @@
       <jump line="492" column="8" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VWidget.py" />
       <jump line="15" column="12" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/VRect.py" />
       <jump line="298" column="10" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VScreen.py" />
+      <jump line="6" column="27" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VWidget.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>method</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>method</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUV0RSXD4=</text>
+        <text encoding="base64">XDxWU2NyZWVuQXJlYVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QsIGFic3RyYWN0cHJvcGVydHkKCgpjbGFzcyBBYnN0cmFjdFNjcmVlbihBQkMpOgo=</text>
@@ -521,37 +535,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBhYnN0cmFjdHByb3BlcnR5CiAgICBkZWYgbnVtX2NvbG9ycyhzZWxmKToKICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zIHRoZSBzdXBwb3J0ZWQgbnVtYmVyIG9mIGNvbG9ycwogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnR5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY29sb3JfYXR0cmlidXRlX2NvZGUoc2VsZiwgZmc9Tm9uZSwgYmc9Tm9uZSk6CiAgICAgICAgIiIiR2l2ZW4gZmcgYW5kIGJnIGNvbG9ycywgZmluZCBhbmQgcmV0dXJuIHRoZSBjb3JyZWN0IGF0dHJpYnV0ZSBjb2RlCiAgICAgICAgdG8gYXBwbHkgd2l0aCBjaGdhdCIiIgogICAgICAgIGZnX3NjcmVlbiA9IE5vbmUgaWYgZmcgaXMgTm9uZSBlbHNlIHNlbGYuX2ZpbmRfY2xvc2VzdF9jb2xvcihmZykKICAgICAgICBiZ19zY3JlZW4gPSBOb25lIGlmIGJnIGlzIE5vbmUgZWxzZSBzZWxmLl9maW5kX2Nsb3Nlc3RfY29sb3IoYmcpCgogICAgICAgIGlmIChmZ19zY3JlZW4sIGJnX3NjcmVlbikgaW4gc2VsZi5fYXR0cl9sb29rdXBfY2FjaGU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl9hdHRyX2xvb2t1cF9jYWNoZVsoZmdfc2NyZWVuLCBiZ19zY3JlZW4pXQoKICAgICAgICBmZ19pbmRleCA9IC0xIGlmIGZnX3NjcmVlbiBpcyBOb25lIGVsc2UgZmdfc2NyZWVuLmNvbG9ySWR4KCkKICAgICAgICBiZ19pbmRleCA9IC0xIGlmIGJnX3NjcmVlbiBpcyBOb25lIGVsc2UgYmdfc2NyZWVuLmNvbG9ySWR4KCkKCiAgICAgICAgYXR0ciA9IHNlbGYuX2dldF9wYWlyX2F0dHJfZnJvbV9jb2xvcnMoZmdfaW5kZXgsIGJnX2luZGV4KQoKICAgICAgICBpZiBmZ19zY3JlZW4gYW5kIGZnX3NjcmVlbi5hdHRyKCk6CiAgICAgICAgICAgIGF0dHIgfD0gZmdfc2NyZWVuLmF0dHIoKQoKICAgICAgICBzZWxmLl9hdHRyX2xvb2t1cF9jYWNoZVsoZmdfc2NyZWVuLCBiZ19zY3JlZW4pXSA9IGF0dHIKICAgICAgICByZXR1cm4gYXR0cgoKICAgIGRlZiBfZ2V0X3BhaXJfYXR0cl9mcm9tX2NvbG9ycyhzZWxmLCBmZ19pbmRleCwgYmdfaW5kZXgpOgogICAgICAgIHQgPSAoZmdfaW5kZXgsIGJnX2luZGV4KQoKICAgICAgICBpZiB0IGluIHNlbGYuX2NvbG9yX3BhaXJzOgogICAgICAgICAgICBwYWlyX2luZGV4ID0gc2VsZi5fY29sb3JfcGFpcnMuaW5kZXgoKGZnX2luZGV4LCBiZ19pbmRleCkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcGFpcl9pbmRleCA9IGxlbihzZWxmLl9jb2xvcl9wYWlycykKICAgICAgICAgICAgd2l0aCBzZWxmLl9jdXJzZXNfbG9jazoKICAgICAgICAgICAgICAgIGN1cnNlcy5pbml0X3BhaXIocGFpcl9pbmRleCwgZmdfaW5kZXgsIGJnX2luZGV4KQogICAgICAgICAgICBzZWxmLl9jb2xvcl9wYWlycy5hcHBlbmQoKGZnX2luZGV4LCBiZ19pbmRleCkpCgogICAgICAgIHdpdGggc2VsZi5fY3Vyc2VzX2xvY2s6CiAgICAgICAgICAgIGF0dHIgPSBjdXJzZXMuY29sb3JfcGFpcihwYWlyX2luZGV4KQoKICAgICAgICByZXR1cm4gYXR0cgogICAgICAgICMgSW5pdCBjb2xvciBwYWlycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3Vyc2VzLkNPTE9SUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgY3Vyc29yX3BvcyhzZWxmKToKICAgICAgICAiIiJHZXRzIHRoZSBjdXJyZW50IHBvc2l0aW9uIG9mIHRoZSBjdXJzb3IiIiIKCiAgICBAY3Vyc29yX3Bvcy5zZXR0ZXIKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGN1cnNvcl9wb3Moc2VsZiwgcG9zKToKICAgICAgICAiIiJTZXRzIHRoZSBwb3NpdGlvbiBvZiB0aGUgY3Vyc29yIiIiCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfY29sb3JzKHNlbGYsIHBvcywgY29sb3JzKToKICAgICAgICAiIiIKICAgICAgICBTZXRzIHRoZSBjb2xvciBhdHRyaWJ1dGVzIGZvciBhIHNwZWNpZmljIGxpbmUsIHN0YXJ0aW5nIGF0IHBvcyBhbmQKICAgICAgICBmb3J3YXJkIHVudGlsIHRoZSBjb2xvcnMKICAgICAgICBhcnJheSBydW5zIG91dC4KCiAgICAgICAgIiIiCgogICAgICAgIHgsIHkgPSBwb3MKICAgICAgICB3LCBoID0gc2VsZi5zaXplKCkKCiAgICAgICAgb3V0X2NvbG9ycyA9IGNvbG9ycwoKICAgICAgICBpZiB5IDwgMCBvciB5ID49IGggb3IgeCA+PSB3OgogICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgICJPdXQgb2YgYm91bmQgaW4gVlNjcmVlbi5zZXRDb2xvcnM6IHBvcz0lcyBzaXplPSVzIGxlbj0lZCIgJSAoCiAgICAgICAgICAgICAgICAgICAgc3RyKHBvcyksIHN0cihzZWxmLnNpemUoKSksIGxlbihjb2xvcnMpKSkKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIG91dF9jb2xvcnMgPSBvdXRfY29sb3JzWzp3LXhdCgogICAgICAgIGlmIHggPCAwOgogICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgICJPdXQgb2YgYm91bmQgaW4gVlNjcmVlbi5zZXRDb2xvcnM6IHBvcz0lcyBzaXplPSVzIGxlbj0lZCIgJSAoCiAgICAgICAgICAgICAgICAgICAgc3RyKHBvcyksIHN0cihzZWxmLnNpemUoKSksIGxlbihjb2xvcnMpKSkKICAgICAgICAgICAgb3V0X2NvbG9ycyA9IGNvbG9yc1steDpdCgogICAgICAgIGlmIGxlbihvdXRfY29sb3JzKSA9PSAwOgogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgaWYgKHgrbGVuKG91dF9jb2xvcnMpID4gdyk6CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmVycm9yKAogICAgICAgICAgICAgICAgIk91dCBvZiBib3VuZCBpbiBWU2NyZWVuLnNldENvbG9yczogcG9zPSVzIHNpemU9JXMgbGVuPSVkIiAlICgKICAgICAgICAgICAgICAgICAgICBzdHIocG9zKSwgc3RyKHNlbGYuc2l6ZSgpKSwgbGVuKGNvbG9ycykpKQogICAgICAgICAgICBvdXRfY29sb3JzID0gb3V0X2NvbG9yc1s6dy14XQoKICAgICAgICBmb3IgbnVtLCBjb2wgaW4gZW51bWVyYXRlKG91dF9jb2xvcnMpOgogICAgICAgICAgICBpZiBsZW4oY29sKSA9PSAxOgogICAgICAgICAgICAgICAgZmdfY29sb3IgPSBjb2xbMF0KICAgICAgICAgICAgICAgIGJnX2NvbG9yID0gTm9uZQogICAgICAgICAgICBlbGlmIGxlbihjb2wpID09IDI6CiAgICAgICAgICAgICAgICBmZ19jb2xvciA9IGNvbFswXQogICAgICAgICAgICAgICAgYmdfY29sb3IgPSBjb2xbMV0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGZnX2NvbG9yID0gY29sWzBdCiAgICAgICAgICAgICAgICBiZ19jb2xvciA9IGNvbFsyXQoKICAgICAgICAgICAgYXR0ciA9IHNlbGYuZ2V0X2NvbG9yX2F0dHJpYnV0ZV9jb2RlKGZnX2NvbG9yLCBiZ19jb2xvcikKICAgICAgICAgICAgd2l0aCBzZWxmLl9jdXJzZXNfbG9jazoKICAgICAgICAgICAgICAgIHNlbGYuX2N1cnNlc19zY3JlZW4uY2hnYXQoeSwgeCtudW0sIDEsIGF0dHIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZmluZF9jbG9zZXN0X2NvbG9yKHNlbGYsIGNvbG9yKToKICAgICAgICBzY3JlZW5fY29sb3IgPSBzZWxmLl9jb2xvcl9sb29rdXBfY2FjaGUuZ2V0KGNvbG9yLnJnYikKICAgICAgICBpZiBzY3JlZW5fY29sb3IgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiBzY3JlZW5fY29sb3IKCiAgICAgICAgY2xvc2VzdCA9IHNvcnRlZChbKFZDb2xvci5WQ29sb3IuZGlzdGFuY2UoY29sb3IsIHNjcmVlbl9jb2xvciksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjcmVlbl9jb2xvcikKICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaW5kZXgsIHNjcmVlbl9jb2xvciBpbiBlbnVtZXJhdGUoCiAgICAgICAgICAgICAgICBWR2xvYmFsU2NyZWVuQ29sb3IuYWxsX2NvbG9ycygpKQogICAgICAgICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9bGFtYmRhIHg6IHhbMF0KICAgICAgICAgICAgICAgICAgICAgICAgIClbMF0KICAgICAgICBzZWxmLl9jb2xvcl9sb29rdXBfY2FjaGVbY29sb3IucmdiXSA9IGNsb3Nlc3RbMV0KICAgICAgICByZXR1cm4gY2xvc2VzdFsxXQoKICAgIGRlZiBvdXRfb2ZfYm91bmRzKHNlbGYsIHBvcyk6CiAgICAgICAgeCwgeSA9IHBvcwogICAgICAgIHJldHVybiAoeCA+PSBzZWxmLndpZHRoKCkgb3IgeSA+PSBzZWxmLmhlaWdodCgpIG9yIHggPCAwIG9yIHkgPCAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUV0RSXD4=</last-search>
+      <last-search encoding="base64">XDxWU2NyZWVuQXJlYVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUV0RSXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxWU2NyZWVuQXJlYVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -559,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exampleDrop</entry>
         <entry encoding="base64">XDxHcmF2YXRhclw+</entry>
         <entry>Link</entry>
         <entry>scale</entry>
@@ -579,6 +592,7 @@
         <entry encoding="base64">XDxtYXRyaXhfZ2V0X3Jvd1w+</entry>
         <entry encoding="base64">XDxwcmludF9iaW5fcmV2ZXJzZThcPg==</entry>
         <entry encoding="base64">XDxUV0RSXD4=</entry>
+        <entry encoding="base64">XDxWU2NyZWVuQXJlYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
