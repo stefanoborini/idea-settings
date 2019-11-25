@@ -30,12 +30,6 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/widgets/VLabel.py" timestamp="1574637179379">
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="21" column="25" />
-        <mark key="^" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="12" />
@@ -97,12 +91,6 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/widgets/VFrame.py" timestamp="1574637192367">
-        <mark key="[" line="25" column="48" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/service/ESearchAPI.js" timestamp="1555761505565">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -129,10 +117,10 @@
       </file>
       <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/keyboards/ergo42/rev1/config.h" timestamp="1572393585818" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/VCoreApplication.py" timestamp="1574633990411">
-        <mark key="[" line="81" column="24" />
-        <mark key="]" line="81" column="24" />
-        <mark key="^" line="81" column="23" />
-        <mark key="." line="81" column="24" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="20" column="24" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/docs/developer.md" timestamp="1555753156630">
         <mark key="[" line="6" column="25" />
@@ -249,12 +237,6 @@
         <mark key="]" line="21" column="17" />
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/tests/vaitk/core/test_VObject.py" timestamp="1574635947659">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="30" column="50" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/linguamatics-test/src/App.css" timestamp="1555758517806">
         <mark key="[" line="2" column="0" />
