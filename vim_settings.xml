@@ -31,6 +31,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/quantum/debounce/sym_g.c" timestamp="1572555139998" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/__init__.py" timestamp="1574720832133">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/components/topbar/UserMenuContent.js" timestamp="1554639488966">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="16" column="14" />
@@ -131,6 +137,12 @@
         <mark key="]" line="31" column="37" />
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VApplication.py" timestamp="1574720814771">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/VEvent.py" timestamp="1574634019548">
         <mark key="[" line="18" column="16" />
@@ -292,6 +304,11 @@
         <mark key="]" line="20" column="22" />
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/widgets/__init__.py" timestamp="1574720851602">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VWidget.py" timestamp="1574719603407" />
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/src/armadillo/controls.py" timestamp="1553644431635">
@@ -519,8 +536,8 @@
       <jump line="6" column="27" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VWidget.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAuLlZDdXJzZXNTY3JlZW4gaW1wb3J0IFZTY3JlZW4gICMgbm9xYQo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -532,31 +549,31 @@
         <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QsIGFic3RyYWN0cHJvcGVydHkKCgpjbGFzcyBBYnN0cmFjdFNjcmVlbihBQkMpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuLlZDdXJzZXNTY3JlZW4gaW1wb3J0IFZTY3JlZW4gICMgbm9xYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnR5Cg==</text>
+        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnR5Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgY3Vyc29yX3BvcyhzZWxmKToKICAgICAgICAiIiJHZXRzIHRoZSBjdXJyZW50IHBvc2l0aW9uIG9mIHRoZSBjdXJzb3IiIiIKCiAgICBAY3Vyc29yX3Bvcy5zZXR0ZXIKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGN1cnNvcl9wb3Moc2VsZiwgcG9zKToKICAgICAgICAiIiJTZXRzIHRoZSBwb3NpdGlvbiBvZiB0aGUgY3Vyc29yIiIiCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgY3Vyc29yX3BvcyhzZWxmKToKICAgICAgICAiIiJHZXRzIHRoZSBjdXJyZW50IHBvc2l0aW9uIG9mIHRoZSBjdXJzb3IiIiIKCiAgICBAY3Vyc29yX3Bvcy5zZXR0ZXIKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGN1cnNvcl9wb3Moc2VsZiwgcG9zKToKICAgICAgICAiIiJTZXRzIHRoZSBwb3NpdGlvbiBvZiB0aGUgY3Vyc29yIiIiCgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZmluZF9jbG9zZXN0X2NvbG9yKHNlbGYsIGNvbG9yKToKICAgICAgICBzY3JlZW5fY29sb3IgPSBzZWxmLl9jb2xvcl9sb29rdXBfY2FjaGUuZ2V0KGNvbG9yLnJnYikKICAgICAgICBpZiBzY3JlZW5fY29sb3IgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiBzY3JlZW5fY29sb3IKCiAgICAgICAgY2xvc2VzdCA9IHNvcnRlZChbKFZDb2xvci5WQ29sb3IuZGlzdGFuY2UoY29sb3IsIHNjcmVlbl9jb2xvciksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjcmVlbl9jb2xvcikKICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaW5kZXgsIHNjcmVlbl9jb2xvciBpbiBlbnVtZXJhdGUoCiAgICAgICAgICAgICAgICBWR2xvYmFsU2NyZWVuQ29sb3IuYWxsX2NvbG9ycygpKQogICAgICAgICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9bGFtYmRhIHg6IHhbMF0KICAgICAgICAgICAgICAgICAgICAgICAgIClbMF0KICAgICAgICBzZWxmLl9jb2xvcl9sb29rdXBfY2FjaGVbY29sb3IucmdiXSA9IGNsb3Nlc3RbMV0KICAgICAgICByZXR1cm4gY2xvc2VzdFsxXQoKICAgIGRlZiBvdXRfb2ZfYm91bmRzKHNlbGYsIHBvcyk6CiAgICAgICAgeCwgeSA9IHBvcwogICAgICAgIHJldHVybiAoeCA+PSBzZWxmLndpZHRoKCkgb3IgeSA+PSBzZWxmLmhlaWdodCgpIG9yIHggPCAwIG9yIHkgPCAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
