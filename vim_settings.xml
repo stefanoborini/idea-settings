@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1574726748988">
+      <file name="/a.dummy" timestamp="1574798496201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/.gitignore" timestamp="1553362625425">
@@ -318,6 +318,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/Widget.py" timestamp="1574797840225">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/armadillo/armadillo/model.py" timestamp="1553360698526">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="20" />
@@ -540,7 +545,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuVlBhaW50ZXIgaW1wb3J0IFZQYWludGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -552,31 +557,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWN0KClbSW5kZXguUkVDVF9XSURUSF0sIHNlbGYucmVjdCgpW0luZGV4LlJFQ1RfSEVJR0hUXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuVlBhaW50ZXIgaW1wb3J0IFZQYWludGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuVlBhbGV0dGUgaW1wb3J0IFZQYWxldHRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuVkFwcGxpY2F0aW9uIGltcG9ydCBWQXBwbGljYXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuVkN1cnNlc1NjcmVlbiBpbXBvcnQgVkN1cnNlc1NjcmVlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWN0KCkudG9wX2xlZnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWN0KHNlbGYpOgo=</text>
+        <text encoding="base64">ZnJvbSAuVkN1cnNlc1NjcmVlbiBpbXBvcnQgVkN1cnNlc1NjcmVlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWN0KCkudG9wX2xlZnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgdG9wX2xlZnQoc2VsZik6CiAgICAgICAgcmV0dXJuIChzZWxmLl9yZWN0W0luZGV4LlJFQ1RfWF0sIHNlbGYuX3JlY3RbSW5kZXguUkVDVF9ZXSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
