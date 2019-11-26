@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1574799445650">
+      <file name="/a.dummy" timestamp="1574800741034">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/Timer.py" timestamp="1574799328923">
@@ -12,28 +12,22 @@
         <mark key="]" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VScreen.py" timestamp="1574719452876">
-        <mark key="'" line="299" column="10" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/VRect.py" timestamp="1574715299867">
+        <mark key="'" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/Widget.py" timestamp="1574797840225">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VCursesScreen.py" timestamp="1574724181627">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="594" column="0" />
-        <mark key="]" line="594" column="0" />
-        <mark key="^" line="73" column="22" />
-        <mark key="." line="594" column="0" />
+      <file name="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/Palette.py" timestamp="1574800768107">
+        <mark key="'" line="160" column="18" />
+      </file>
+      <file name="$USER_HOME$/Work/Projects/other/qmk_firmware/quantum/split_common/matrix.c" timestamp="1572555292986">
+        <mark key="'" line="37" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="41" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
       <jump line="45" column="29" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
       <jump line="48" column="29" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
       <jump line="59" column="4" filename="$USER_HOME$/Work/Projects/stefanoborini/mentorapp/src/TopBar.js" />
@@ -133,6 +127,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VApplication.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/VCursesScreen.py" />
       <jump line="66" column="40" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/core/Timer.py" />
+      <jump line="160" column="18" filename="$USER_HOME$/Work/Projects/stefanoborini/vaitk/vaitk/gui/Palette.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -142,7 +137,7 @@
         <text>V</text>
       </register>
       <register name="/" type="4">
-        <text>VScreen</text>
+        <text>VColor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWN0KClbSW5kZXguUkVDVF9XSURUSF0sIHNlbGYucmVjdCgpW0luZGV4LlJFQ1RfSEVJR0hUXQo=</text>
@@ -179,17 +174,16 @@
       </register>
     </registers>
     <search>
-      <last-search>VScreen</last-search>
+      <last-search>VColor</last-search>
       <last-offset />
-      <last-pattern>VScreen</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxsYWJlbFw+</last-substitute>
+      <last-pattern>VColor</last-pattern>
+      <last-replace>Color</last-replace>
+      <last-substitute>VColor</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>random</entry>
         <entry>line</entry>
         <entry>samople</entry>
         <entry>sample</entry>
@@ -209,6 +203,7 @@
         <entry>top_left</entry>
         <entry>size</entry>
         <entry>VScreen</entry>
+        <entry>VColor</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -217,6 +212,7 @@
         <entry>q</entry>
         <entry>&quot;w</entry>
         <entry>e</entry>
+        <entry>%s/VColor/Color/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
